@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Bio"
+title: "Personal Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm a PhD student at HKUST, starting from Fall 2024. My research area is reinforcement learning, with a focus on uncertainty and safety. My supervisor is [Professor Xie](https://sihongxie.github.io/). I'm interested in developing algorithms and methods that can enable agents to learn and act optimally in complex and dynamic environments, while ensuring their reliability and robustness.
+Hi, I'm a PhD student at HKUST, starting from Fall 2024. My research area is reinforcement learning, with a focus on uncertainty and safety. My supervisor is [Prof. Xie](https://sihongxie.github.io/). I'm interested in developing algorithms and methods that can enable agents to learn and act optimally in complex and dynamic environments, while ensuring their reliability and robustness.
+
+During my master’s program, I worked under the guidance of [Prof. Yan](https://scholar.google.com/citations?user=acPALtAAAAAJ&hl=zh-CN&oi=sra). My research primarily focused on computer vision tasks
 
 
 <!-- 

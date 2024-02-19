@@ -17,12 +17,10 @@ Education
 
 Work experience
 ======
-* Fall 2023: Research Assistant
+* Fall 2023: Research Assistant （HKUSTGZ）
 
-* Winter 2022: Intern
-  <!-- * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users -->
+* Winter 2022: Intern （PJLab）
+
 
 <!-- * Fall 2015: Research Assistant
   * Github University
